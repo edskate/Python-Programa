@@ -2,3 +2,15 @@ i{
     color: red;
     text-shadow: -1px 1px 1px #000;
 }
+div .container{
+    display: flex;
+    background-color: aqua;
+    margin: 10px;
+}
+div .item{
+ 
+    padding: 10px;
+    background-color: gray;
+    border: 3px solid #08c905;
+    text-shadow: -1px 1px 1px #05acc9;
+}
